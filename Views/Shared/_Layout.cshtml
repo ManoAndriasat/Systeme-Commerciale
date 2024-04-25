@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - SystemeCommerciale</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/SystemeCommerciale.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header class="heading">
+		<div style="color: rgb(255, 255, 255);background-color: rgb(148, 99, 189);padding: 5px;font-family: monospace;">
+			<center>Systeme Commercial</center>
+		</div>
+
+
+		<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+	    <div class="container-fluid">
+
+	      <div class="collapse navbar-collapse" id="ftco-nav">
+	        <ul class="navbar-nav m-auto">
+	        	<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Produit</a>
+					<div class="dropdown-menu" aria-labelledby="dropdown04">
+						<a class="dropdown-item" href="/Email">Email</a>
+						<a class="dropdown-item" href="#">Stock Produit</a>
+					</div>
+				</li> 
+
+	        	<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Demande d'achat</a>
+					<div class="dropdown-menu" aria-labelledby="dropdown04">
+						<a class="dropdown-item" href="/demandebesoin/Index">Formulaire demande</a>
+						<a class="dropdown-item" href="/validation/Index">Validation</a>
+					</div>
+				</li>
+
+
+	        	<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Bon de commande</a>
+					<div class="dropdown-menu" aria-labelledby="dropdown04">
+						<a class="dropdown-item" href="/BandDeCommande/ListeBandBandDeCommandeNonValide">Validation Directeur</a>
+						<a class="dropdown-item" href="/BandDeCommande/ListeBandBandDeCommandeValide">Liste de tout les valider</a>
+					</div>
+				</li>
+
+	        	<li class="nav-item"><a href="/regroupement/Index" class="nav-link">Regroupement Besoin</a></li>
+	        	
+
+	        </ul>
+	      </div>
+	    </div>
+	  </nav>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/jquery.min.js"></script>
+  <script src="~/js/popper.js"></script>
+  <script src="~/js/bootstrap.min.js"></script>
+  <script src="~/js/main.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

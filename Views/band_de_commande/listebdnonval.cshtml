@@ -1,0 +1,44 @@
+@using tools
+@model List<BandDeCommandeNonValideModel>
+
+<link rel="stylesheet" href="~/css/Regroupement.css">
+<link rel="stylesheet" href="~/css/bootstrap.min.css">
+
+<style>
+    .validation a{
+        padding: 7px;
+        width: 80%;
+        color: white;
+        background-color: rgb(47, 147, 255);
+        border-radius: 5px;
+    }
+</style>
+
+<div class="container mt-5">
+<center><p style="font-size: 18px;font-weight: bold;font-family: monospace;color: black;">LISTE DE TOUT LES BONS DE COMMANDE</p></center>
+
+<div class="ListPersonnel">
+    <table>
+        <thead class="head">
+            <tr>
+                <th>Fournisseur</th>
+                <th>Date de commande</th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody id="bodyEmpTable">
+            @foreach(var bandDeCommandeNonValideModel in Model) {
+                <tr class="total-ligne">
+                    <td>@bandDeCommandeNonValideModel.fournisseur.getNomFournisseur()</td>
+                    <td>@bandDeCommandeNonValideModel.DateDeCommande</td>
+                    <td class="validation"><a href="@Url.Action("validerBon", "BandDeCommande", new { id_fournisseur = @bandDeCommandeNonValideModel.fournisseur.getIdFournisseur() , date = @bandDeCommandeNonValideModel.DateDeCommande })" style="background-color:green">Valider</a></td>
+                    <td class="validation"><a href="@Url.Action("voirDetailbonDeCommande", "BandDeCommande", new { id_fournisseur = @bandDeCommandeNonValideModel.fournisseur.getIdFournisseur() , date = @bandDeCommandeNonValideModel.DateDeCommande })" style="background-color:grey">Voir details</a></td>
+                </tr>
+            }
+        </tbody>
+
+    </table> 
+</div>
+</div>

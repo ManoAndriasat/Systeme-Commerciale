@@ -1,0 +1,62 @@
+/home/mano/Desktop/SystemeCommerciale/bin/Debug/net6.0/appsettings.Development.json
+/home/mano/Desktop/SystemeCommerciale/bin/Debug/net6.0/appsettings.json
+/home/mano/Desktop/SystemeCommerciale/bin/Debug/net6.0/SystemeCommerciale.staticwebassets.runtime.json
+/home/mano/Desktop/SystemeCommerciale/bin/Debug/net6.0/SystemeCommerciale
+/home/mano/Desktop/SystemeCommerciale/bin/Debug/net6.0/SystemeCommerciale.deps.json
+/home/mano/Desktop/SystemeCommerciale/bin/Debug/net6.0/SystemeCommerciale.runtimeconfig.json
+/home/mano/Desktop/SystemeCommerciale/bin/Debug/net6.0/SystemeCommerciale.dll
+/home/mano/Desktop/SystemeCommerciale/bin/Debug/net6.0/SystemeCommerciale.pdb
+/home/mano/Desktop/SystemeCommerciale/bin/Debug/net6.0/EASendMail.dll
+/home/mano/Desktop/SystemeCommerciale/bin/Debug/net6.0/Npgsql.dll
+/home/mano/Desktop/SystemeCommerciale/bin/Debug/net6.0/System.Security.Cryptography.Pkcs.dll
+/home/mano/Desktop/SystemeCommerciale/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.Pkcs.dll
+/home/mano/Desktop/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.csproj.AssemblyReference.cache
+/home/mano/Desktop/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.GeneratedMSBuildEditorConfig.editorconfig
+/home/mano/Desktop/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.AssemblyInfoInputs.cache
+/home/mano/Desktop/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.AssemblyInfo.cs
+/home/mano/Desktop/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.csproj.CoreCompileInputs.cache
+/home/mano/Desktop/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.MvcApplicationPartsAssemblyInfo.cache
+/home/mano/Desktop/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.RazorAssemblyInfo.cache
+/home/mano/Desktop/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.RazorAssemblyInfo.cs
+/home/mano/Desktop/SystemeCommerciale/obj/Debug/net6.0/staticwebassets.build.json
+/home/mano/Desktop/SystemeCommerciale/obj/Debug/net6.0/staticwebassets.development.json
+/home/mano/Desktop/SystemeCommerciale/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/mano/Desktop/SystemeCommerciale/obj/Debug/net6.0/scopedcss/bundle/SystemeCommerciale.styles.css
+/home/mano/Desktop/SystemeCommerciale/obj/Debug/net6.0/scopedcss/projectbundle/SystemeCommerciale.bundle.scp.css
+/home/mano/Desktop/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.csproj.CopyComplete
+/home/mano/Desktop/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.dll
+/home/mano/Desktop/SystemeCommerciale/obj/Debug/net6.0/refint/SystemeCommerciale.dll
+/home/mano/Desktop/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.pdb
+/home/mano/Desktop/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.genruntimeconfig.cache
+/home/mano/Desktop/SystemeCommerciale/obj/Debug/net6.0/ref/SystemeCommerciale.dll
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/bin/Debug/net6.0/appsettings.Development.json
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/bin/Debug/net6.0/appsettings.json
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/bin/Debug/net6.0/SystemeCommerciale.staticwebassets.runtime.json
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/bin/Debug/net6.0/SystemeCommerciale
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/bin/Debug/net6.0/SystemeCommerciale.deps.json
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/bin/Debug/net6.0/SystemeCommerciale.runtimeconfig.json
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/bin/Debug/net6.0/SystemeCommerciale.dll
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/bin/Debug/net6.0/SystemeCommerciale.pdb
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/bin/Debug/net6.0/EASendMail.dll
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/bin/Debug/net6.0/Npgsql.dll
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/bin/Debug/net6.0/System.Security.Cryptography.Pkcs.dll
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.Pkcs.dll
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.csproj.AssemblyReference.cache
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.GeneratedMSBuildEditorConfig.editorconfig
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.AssemblyInfoInputs.cache
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.AssemblyInfo.cs
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.csproj.CoreCompileInputs.cache
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.MvcApplicationPartsAssemblyInfo.cache
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.RazorAssemblyInfo.cache
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.RazorAssemblyInfo.cs
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/obj/Debug/net6.0/staticwebassets.build.json
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/obj/Debug/net6.0/staticwebassets.development.json
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/obj/Debug/net6.0/scopedcss/bundle/SystemeCommerciale.styles.css
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/obj/Debug/net6.0/scopedcss/projectbundle/SystemeCommerciale.bundle.scp.css
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.csproj.CopyComplete
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.dll
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/obj/Debug/net6.0/refint/SystemeCommerciale.dll
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.pdb
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/obj/Debug/net6.0/SystemeCommerciale.genruntimeconfig.cache
+/home/mano/Desktop/Mr Tovo/SystemeCommerciale/obj/Debug/net6.0/ref/SystemeCommerciale.dll

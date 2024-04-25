@@ -1,0 +1,126 @@
+C:/Users/Mano/Desktop/SystemeCommerciale/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Mano/Desktop/SystemeCommerciale/bin/Debug/net7.0/appsettings.json
+C:/Users/Mano/Desktop/SystemeCommerciale/bin/Debug/net7.0/SystemeCommerciale.staticwebassets.runtime.json
+C:/Users/Mano/Desktop/SystemeCommerciale/bin/Debug/net7.0/SystemeCommerciale.exe
+C:/Users/Mano/Desktop/SystemeCommerciale/bin/Debug/net7.0/SystemeCommerciale.deps.json
+C:/Users/Mano/Desktop/SystemeCommerciale/bin/Debug/net7.0/SystemeCommerciale.runtimeconfig.json
+C:/Users/Mano/Desktop/SystemeCommerciale/bin/Debug/net7.0/SystemeCommerciale.dll
+C:/Users/Mano/Desktop/SystemeCommerciale/bin/Debug/net7.0/SystemeCommerciale.pdb
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/SystemeCommerciale.csproj.AssemblyReference.cache
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/SystemeCommerciale.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/SystemeCommerciale.AssemblyInfoInputs.cache
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/SystemeCommerciale.AssemblyInfo.cs
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/SystemeCommerciale.csproj.CoreCompileInputs.cache
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/SystemeCommerciale.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/SystemeCommerciale.RazorAssemblyInfo.cache
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/SystemeCommerciale.RazorAssemblyInfo.cs
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/staticwebassets/msbuild.SystemeCommerciale.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/staticwebassets/msbuild.build.SystemeCommerciale.props
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.SystemeCommerciale.props
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.SystemeCommerciale.props
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/scopedcss/bundle/SystemeCommerciale.styles.css
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/scopedcss/projectbundle/SystemeCommerciale.bundle.scp.css
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/SystemeCommerciale.dll
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/refint/SystemeCommerciale.dll
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/SystemeCommerciale.pdb
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/SystemeCommerciale.genruntimeconfig.cache
+C:/Users/Mano/Desktop/SystemeCommerciale/obj/Debug/net7.0/ref/SystemeCommerciale.dll
+/home/mano/Desktop/SC/SystemeCommerciale/bin/Debug/net7.0/appsettings.Development.json
+/home/mano/Desktop/SC/SystemeCommerciale/bin/Debug/net7.0/appsettings.json
+/home/mano/Desktop/SC/SystemeCommerciale/bin/Debug/net7.0/SystemeCommerciale.staticwebassets.runtime.json
+/home/mano/Desktop/SC/SystemeCommerciale/bin/Debug/net7.0/SystemeCommerciale
+/home/mano/Desktop/SC/SystemeCommerciale/bin/Debug/net7.0/SystemeCommerciale.deps.json
+/home/mano/Desktop/SC/SystemeCommerciale/bin/Debug/net7.0/SystemeCommerciale.runtimeconfig.json
+/home/mano/Desktop/SC/SystemeCommerciale/bin/Debug/net7.0/SystemeCommerciale.dll
+/home/mano/Desktop/SC/SystemeCommerciale/bin/Debug/net7.0/SystemeCommerciale.pdb
+/home/mano/Desktop/SC/SystemeCommerciale/obj/Debug/net7.0/SystemeCommerciale.GeneratedMSBuildEditorConfig.editorconfig
+/home/mano/Desktop/SC/SystemeCommerciale/obj/Debug/net7.0/SystemeCommerciale.AssemblyInfoInputs.cache
+/home/mano/Desktop/SC/SystemeCommerciale/obj/Debug/net7.0/SystemeCommerciale.AssemblyInfo.cs
+/home/mano/Desktop/SC/SystemeCommerciale/obj/Debug/net7.0/SystemeCommerciale.csproj.CoreCompileInputs.cache
+/home/mano/Desktop/SC/SystemeCommerciale/obj/Debug/net7.0/SystemeCommerciale.MvcApplicationPartsAssemblyInfo.cache
+/home/mano/Desktop/SC/SystemeCommerciale/obj/Debug/net7.0/SystemeCommerciale.RazorAssemblyInfo.cache
+/home/mano/Desktop/SC/SystemeCommerciale/obj/Debug/net7.0/SystemeCommerciale.RazorAssemblyInfo.cs
+/home/mano/Desktop/SC/SystemeCommerciale/obj/Debug/net7.0/staticwebassets/msbuild.SystemeCommerciale.Microsoft.AspNetCore.StaticWebAssets.props
+/home/mano/Desktop/SC/SystemeCommerciale/obj/Debug/net7.0/staticwebassets/msbuild.build.SystemeCommerciale.props
+/home/mano/Desktop/SC/SystemeCommerciale/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.SystemeCommerciale.props
+/home/mano/Desktop/SC/SystemeCommerciale/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.SystemeCommerciale.props
+/home/mano/Desktop/SC/SystemeCommerciale/obj/Debug/net7.0/staticwebassets.pack.json
+/home/mano/Desktop/SC/SystemeCommerciale/obj/Debug/net7.0/staticwebassets.build.json
+/home/mano/Desktop/SC/SystemeCommerciale/obj/Debug/net7.0/staticwebassets.development.json
+/home/mano/Desktop/SC/SystemeCommerciale/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/mano/Desktop/SC/SystemeCommerciale/obj/Debug/net7.0/scopedcss/bundle/SystemeCommerciale.styles.css
+/home/mano/Desktop/SC/SystemeCommerciale/obj/Debug/net7.0/scopedcss/projectbundle/SystemeCommerciale.bundle.scp.css
+/home/mano/Desktop/SC/SystemeCommerciale/obj/Debug/net7.0/SystemeCommerciale.dll
+/home/mano/Desktop/SC/SystemeCommerciale/obj/Debug/net7.0/refint/SystemeCommerciale.dll
+/home/mano/Desktop/SC/SystemeCommerciale/obj/Debug/net7.0/SystemeCommerciale.pdb
+/home/mano/Desktop/SC/SystemeCommerciale/obj/Debug/net7.0/SystemeCommerciale.genruntimeconfig.cache
+/home/mano/Desktop/SC/SystemeCommerciale/obj/Debug/net7.0/ref/SystemeCommerciale.dll
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\bin\Debug\net7.0\appsettings.json
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\bin\Debug\net7.0\SystemeCommerciale.staticwebassets.runtime.json
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\bin\Debug\net7.0\SystemeCommerciale.exe
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\bin\Debug\net7.0\SystemeCommerciale.deps.json
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\bin\Debug\net7.0\SystemeCommerciale.runtimeconfig.json
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\bin\Debug\net7.0\SystemeCommerciale.dll
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\bin\Debug\net7.0\SystemeCommerciale.pdb
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.csproj.AssemblyReference.cache
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.AssemblyInfoInputs.cache
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.AssemblyInfo.cs
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.csproj.CoreCompileInputs.cache
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.RazorAssemblyInfo.cache
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.RazorAssemblyInfo.cs
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\staticwebassets\msbuild.SystemeCommerciale.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\staticwebassets\msbuild.build.SystemeCommerciale.props
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SystemeCommerciale.props
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SystemeCommerciale.props
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\scopedcss\bundle\SystemeCommerciale.styles.css
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\scopedcss\projectbundle\SystemeCommerciale.bundle.scp.css
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.dll
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\refint\SystemeCommerciale.dll
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.pdb
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.genruntimeconfig.cache
+C:\Users\Mano\Desktop\SC\SystemeCommerciale\obj\Debug\net7.0\ref\SystemeCommerciale.dll
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\bin\Debug\net7.0\appsettings.Development.json
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\bin\Debug\net7.0\appsettings.json
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\bin\Debug\net7.0\SystemeCommerciale.staticwebassets.runtime.json
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\bin\Debug\net7.0\SystemeCommerciale.exe
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\bin\Debug\net7.0\SystemeCommerciale.deps.json
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\bin\Debug\net7.0\SystemeCommerciale.runtimeconfig.json
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\bin\Debug\net7.0\SystemeCommerciale.dll
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\bin\Debug\net7.0\SystemeCommerciale.pdb
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.csproj.AssemblyReference.cache
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.AssemblyInfoInputs.cache
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.AssemblyInfo.cs
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.csproj.CoreCompileInputs.cache
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.MvcApplicationPartsAssemblyInfo.cache
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.RazorAssemblyInfo.cache
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.RazorAssemblyInfo.cs
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\staticwebassets\msbuild.SystemeCommerciale.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\staticwebassets\msbuild.build.SystemeCommerciale.props
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SystemeCommerciale.props
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SystemeCommerciale.props
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\staticwebassets.pack.json
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\staticwebassets.build.json
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\staticwebassets.development.json
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\scopedcss\bundle\SystemeCommerciale.styles.css
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\scopedcss\projectbundle\SystemeCommerciale.bundle.scp.css
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.dll
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\refint\SystemeCommerciale.dll
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.pdb
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.genruntimeconfig.cache
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\ref\SystemeCommerciale.dll
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\bin\Debug\net7.0\Npgsql.dll
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\obj\Debug\net7.0\SystemeCommerciale.csproj.CopyComplete
+D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\bin\Debug\net7.0\EASendMail.dll

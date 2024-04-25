@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SystemeCommerciale
+build_property.RootNamespace = SystemeCommerciale
+build_property.ProjectDir = D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\IT UNIVERSITY\Semestre 5\Mr Tovo Systeme Commerciale\1 band de commande\SystemeCommerciale
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/IT UNIVERSITY/Semestre 5/Mr Tovo Systeme Commerciale/1 band de commande/SystemeCommerciale/Views/band_de_commande/banddecommandedetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYmFuZF9kZV9jb21tYW5kZVxiYW5kZGVjb21tYW5kZWRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT UNIVERSITY/Semestre 5/Mr Tovo Systeme Commerciale/1 band de commande/SystemeCommerciale/Views/band_de_commande/bandDeCommandefin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYmFuZF9kZV9jb21tYW5kZVxiYW5kRGVDb21tYW5kZWZpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT UNIVERSITY/Semestre 5/Mr Tovo Systeme Commerciale/1 band de commande/SystemeCommerciale/Views/band_de_commande/FormulaireBandDeCommande.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYmFuZF9kZV9jb21tYW5kZVxGb3JtdWxhaXJlQmFuZERlQ29tbWFuZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT UNIVERSITY/Semestre 5/Mr Tovo Systeme Commerciale/1 band de commande/SystemeCommerciale/Views/band_de_commande/listebdnonval.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYmFuZF9kZV9jb21tYW5kZVxsaXN0ZWJkbm9udmFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT UNIVERSITY/Semestre 5/Mr Tovo Systeme Commerciale/1 band de commande/SystemeCommerciale/Views/band_de_commande/listebdval.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYmFuZF9kZV9jb21tYW5kZVxsaXN0ZWJkdmFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT UNIVERSITY/Semestre 5/Mr Tovo Systeme Commerciale/1 band de commande/SystemeCommerciale/Views/demandeBesoin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVtYW5kZUJlc29pblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT UNIVERSITY/Semestre 5/Mr Tovo Systeme Commerciale/1 band de commande/SystemeCommerciale/Views/Email/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT UNIVERSITY/Semestre 5/Mr Tovo Systeme Commerciale/1 band de commande/SystemeCommerciale/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT UNIVERSITY/Semestre 5/Mr Tovo Systeme Commerciale/1 band de commande/SystemeCommerciale/Views/Home/LoginChef.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbkNoZWYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT UNIVERSITY/Semestre 5/Mr Tovo Systeme Commerciale/1 band de commande/SystemeCommerciale/Views/Home/LoginDepartement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbkRlcGFydGVtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT UNIVERSITY/Semestre 5/Mr Tovo Systeme Commerciale/1 band de commande/SystemeCommerciale/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT UNIVERSITY/Semestre 5/Mr Tovo Systeme Commerciale/1 band de commande/SystemeCommerciale/Views/Home/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXZWxjb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT UNIVERSITY/Semestre 5/Mr Tovo Systeme Commerciale/1 band de commande/SystemeCommerciale/Views/NotAccess/NoAccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90QWNjZXNzXE5vQWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT UNIVERSITY/Semestre 5/Mr Tovo Systeme Commerciale/1 band de commande/SystemeCommerciale/Views/proforma/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvZm9ybWFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT UNIVERSITY/Semestre 5/Mr Tovo Systeme Commerciale/1 band de commande/SystemeCommerciale/Views/Regroupement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVncm91cGVtZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT UNIVERSITY/Semestre 5/Mr Tovo Systeme Commerciale/1 band de commande/SystemeCommerciale/Views/Regroupement/IndexFinance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVncm91cGVtZW50XEluZGV4RmluYW5jZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT UNIVERSITY/Semestre 5/Mr Tovo Systeme Commerciale/1 band de commande/SystemeCommerciale/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT UNIVERSITY/Semestre 5/Mr Tovo Systeme Commerciale/1 band de commande/SystemeCommerciale/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT UNIVERSITY/Semestre 5/Mr Tovo Systeme Commerciale/1 band de commande/SystemeCommerciale/Views/validation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdmFsaWRhdGlvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT UNIVERSITY/Semestre 5/Mr Tovo Systeme Commerciale/1 band de commande/SystemeCommerciale/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT UNIVERSITY/Semestre 5/Mr Tovo Systeme Commerciale/1 band de commande/SystemeCommerciale/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT UNIVERSITY/Semestre 5/Mr Tovo Systeme Commerciale/1 band de commande/SystemeCommerciale/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lk4ebttnia

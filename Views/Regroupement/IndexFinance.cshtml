@@ -1,0 +1,29 @@
+@using tools
+@model List<RegroupementBesoinModel>
+<link rel="stylesheet" href="~/css/Regroupement.css">
+	<link rel="stylesheet" href="~/css/bootstrap.min.css">
+
+<div class="container mt-5">
+<center><p style="font-size: 18px;font-weight: bold;font-family: monospace;color: black;">REGROUPEMENT DES BESOINS :</p></center>
+
+<div class="ListPersonnel">
+    <table>
+        <thead class="head">
+            <tr>
+                <th>Produit</th>
+                <th>Quantité</th>
+                <th>Proforma</th>
+            </tr>
+        </thead>
+         @foreach(var regroupement in Model) {
+            <tbody id="bodyEmpTable">
+                <tr class="total-ligne">
+                    <td>@regroupement.getProduit().getNomProduit()</td>
+                    <td class="total">total : @regroupement.getquantiteTotal() </td>
+                    <td class="proforma"><a href="@Url.Action("ListProforma", "Proforma", new { id_produit = @regroupement.getProduit().getIdProduit() })">proforma</a></td>
+                </tr>
+            </tbody>
+        }
+    </table> 
+</div>
+</div>

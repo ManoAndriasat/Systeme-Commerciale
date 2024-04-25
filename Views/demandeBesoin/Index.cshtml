@@ -1,0 +1,42 @@
+@model DemandeBesoinFormModel
+	<link rel="stylesheet" href="~/css/bootstrap.min.css">
+	
+    <div class="container mt-5">
+		<style>
+			.input{
+				padding:5px;
+				width: 100%;
+			}
+			label {
+				font-weight: bold;
+			}
+		</style>
+		<form action="/Formulaire/insertDemandeBesoin" method="post">
+		  <div class="mb-3">
+			<label for="department" class="form-label">Department</label>
+			<select class="input" id="department" name="department">
+			@foreach(var departement in Model.departements) {
+                <option value="@departement.getIdDepartement()">@departement.getNomDepartement()</option>
+            }
+			  <!-- Ajoutez d'autres options selon vos besoins -->
+			</select>
+		  </div>
+	  
+		  <div class="mb-3">
+			<label for="produit" class="form-label">Produit</label>
+			<select  class="input" id="produit" name="produit">
+			  @foreach(var produit in Model.produits) {
+                <option value="@produit.getIdProduit()">@produit.getNomProduit()</option>
+            }
+			  <!-- Ajoutez d'autres options selon vos besoins -->
+			</select>
+		  </div>
+	  
+		  <div class="mb-3">
+			<label for="quantite" class="form-label">Quantité</label>
+			<input type="number" class="input" id="quantite" name="quantite">
+		  </div>
+		  <br>
+		  <button type="submit" class="btn btn-primary" style="width: 100%;padding: 5px;">Envoyer</button>
+		</form>
+	  </div>

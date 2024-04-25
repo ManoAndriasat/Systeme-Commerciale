@@ -1,0 +1,46 @@
+@using tools
+@model List<DemandeBesoin>
+
+<link rel="stylesheet" href="~/css/Regroupement.css">
+<link rel="stylesheet" href="~/css/bootstrap.min.css">
+
+<style>
+    .validation a{
+        padding: 7px;
+        width: 80%;
+        color: white;
+        background-color: rgb(47, 147, 255);
+        border-radius: 5px;
+    }
+</style>
+
+<div class="container mt-5">
+<center><p style="font-size: 18px;font-weight: bold;font-family: monospace;color: black;">VALIDATION DES BESOINS D'ACHATS :</p></center>
+
+<div class="ListPersonnel">
+    <table>
+        <thead class="head">
+            <tr>
+                <th>Produit</th>
+                <th>Departement</th>
+                <th>Quantité</th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody id="bodyEmpTable">
+            @foreach(var besoin in Model) {
+                <tr class="total-ligne">
+                    <td>@besoin.getProduit().getNomProduit()</td>
+                    <td>@besoin.getDepartement().getNomDepartement()</td>
+                    <td>@besoin.getQuantite()</td>
+                    <td class="validation"><a href="@Url.Action("ValideDemandeBesoin", "Validation", new { besoin = @besoin.getId_demande_besoin() })" style="background-color:green">Valider</a></td>
+                    <td class="validation"><a href="@Url.Action("RefuseDemandeBesoin", "Validation", new { besoin = @besoin.getId_demande_besoin() })" style="background-color:red">Refuser</a></td>
+                </tr>
+            }
+        </tbody>
+
+    </table> 
+</div>
+</div>

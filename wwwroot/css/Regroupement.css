@@ -1,0 +1,51 @@
+.ListPersonnel table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1px auto;
+}
+
+thead tr th{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-weight: normal;
+}
+
+.sous-tableau tr{
+    color: white;
+    background-color: rgb(84, 84, 84);
+}
+.tr-hidden{
+    background-color: white;
+}
+td{
+    width: 100px;
+    padding: 7px;
+    color: rgb(38, 38, 38);
+}
+
+table{
+    text-align: center;
+}
+.proforma a{
+    background-color: rgb(46, 117, 250);
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-size: 14px;
+}
+.total{
+    background-color: greenyellow;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    width: 50px;
+}
+.total-ligne{
+    background-color: rgb(225, 225, 225);
+}
+
+td hr{
+    width: 80%;
+    color: black;
+}

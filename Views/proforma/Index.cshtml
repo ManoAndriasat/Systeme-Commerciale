@@ -1,0 +1,45 @@
+@using tools
+@using SystemeCommerciale
+@model ProformaModel
+
+<link rel="stylesheet" href="~/css/Regroupement.css">
+<link rel="stylesheet" href="~/css/bootstrap.min.css">
+
+<style>
+    .validation a{
+        padding: 7px;
+        width: 80%;
+        color: white;
+        background-color: rgb(47, 147, 255);
+        border-radius: 5px;
+    }
+</style>
+
+<div class="container mt-5">
+<center><p style="font-size: 18px;font-weight: bold;font-family: monospace;color: black;">Liste de fournisseur qui vend le produit du produit :  @Model.getProduit().getNomProduit()</p></center>
+<br>
+<div class="ListPersonnel">
+    <table>
+        <thead class="head">
+            <tr>
+                <th>Fournisseur</th>
+                @* <th>Quantite</th>
+                <th>Prix</th> *@
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody id="bodyEmpTable">
+            @foreach(var proforma in Model.getVStockProduitFournisseur()) {
+                <tr class="total-ligne">
+                    <td>@proforma.getFournisseur().getNomFournisseur()</td>
+                    @* <td>@proforma.getQuantite()</td>
+                    <td>@proforma.getPrixUnitaire() Ariary</td> *@
+                    <td class="validation"><a href="@Url.Action("GenererBandDeCommande", "BandDeCommande", new { id_produit =  @Model.getProduit().getIdProduit(), id_fournisseur = @proforma.getFournisseur().getIdFournisseur() })">Commander</a></td>
+                </tr>
+            }
+        </tbody>
+
+    </table> 
+</div>
+</div>

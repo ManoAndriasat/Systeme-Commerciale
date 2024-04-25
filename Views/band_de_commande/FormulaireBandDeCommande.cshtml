@@ -1,0 +1,97 @@
+@using tools
+@using SystemeCommerciale
+@model BandDeCommandeModel
+<link rel="stylesheet" href="~/css/proforma.css">
+
+<div class="container">
+
+<br>
+    <!-- BOuCLEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE -->
+    <div class="titre">Bon de commande: @Model.getProduitFournisseur().getFournisseur().getNomFournisseur()</div>
+    <div class="proforma" id="1">
+            <div class="header">
+                <h1></h1>
+                <address contenteditable class="address">
+                    <p>Contact :  @Model.getProduitFournisseur().getFournisseur().getContact()</p>
+                    <p>Email :  @Model.getProduitFournisseur().getFournisseur().getEmail()</p>
+                </address>
+            </div>
+
+            <article class="article">
+                
+                <table class="meta">
+                    <tr>
+                        <th><span contenteditable>Titre</span></th>
+                        <td><span contenteditable id="reference">@Model.getTitre()</span></td>
+                    </tr>
+                    <tr>
+                        <th><span contenteditable>Reference</span></th>
+                        <td><span contenteditable id="reference">@Model.getReference()</span></td>
+                    </tr>
+                    <tr>
+                        <th><span contenteditable>Date</span></th>
+                        <td><span contenteditable><input type='date' class='champs' id="date"></span></td>
+                    </tr>
+                    <tr>
+                        <th><span contenteditable>Methode de payement</span></th>
+                        <td><span contenteditable>
+                            <select class="champs" id="methode">
+                                @foreach(var methode in Model.getMode_payement()) {
+                                    <option value="@methode.getIDModePayement()">@methode.getdesignation()</option>
+                                }
+                            </select>
+                        </span></td>
+                    </tr>
+                    <tr>
+                        <th><span contenteditable>Montant Initiale</span></th>
+                        <td><span id="prefix" contenteditable><span id="montant_2">@Model.getMontant()</span></span> <span>Ariary</span></td>
+                    </tr>
+                </table>
+                <table class="inventory">
+                    <thead>
+                        <tr>
+                            <th><span contenteditable>Produit</span></th>
+                            <th><span contenteditable>Prix unitaire</span></th>
+                            <th style="display: none;"><span contenteditable>TVA</span></th>
+                            <th><span contenteditable>Quantite</span></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><span contenteditable> @Model.getProduitFournisseur().getProduit().getNomProduit()</span></td>
+                            <td><span contenteditable id="pu">  @Model.getProduitFournisseur().getPrixUnitaire() </span>Ariary</td>
+                            <td style="display: none;"><span data-prefix id="tva" >@Model.getProduitFournisseur().getTva()</span><span contenteditable>%</span></td>
+                            <td><span contenteditable><input type="number" class="champs" id="quantite" value="@Model.getQuantite()"></span></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table class="balance">
+                    <tr>
+                        <th><span contenteditable>Montant HT a payer</span></th>
+                        <td><span data-prefix id="montant">@Model.getMontant()</span><span> Ariary</span></td>
+                    </tr>
+                    <tr style="display: none;">
+                        <th><span contenteditable>Prix du TVA</span></th>
+                        <td><span data-prefix id="montant_tva">@Model.getMontant_tva()</span><span contenteditable> Ariary</span></td>
+                    </tr>
+                    <tr style="display: none;">
+                        <th><span contenteditable>Prix total</span></th>
+                        <td><span data-prefix id="montant_totale">@Model.getMontant_totale()</span><span> Ariary</span></td>
+                    </tr>
+                </table>
+                <input type="hidden" value="@Model.getProduitFournisseur().getProduit().getIdProduit()" id="id_produit">
+                <input type="hidden" value="@Model.getProduitFournisseur().getFournisseur().getIdFournisseur()" id="id_fournisseur">
+            <p><a class="proforma" style="float: right; margin-right: 5px ; padding : 2px 5px 2px 5px ; background-color : blue ;color : white" id="lien" href="#" id_produit="">Envoyer du commande</a></p>
+            </article>
+            <aside>
+                <h1><span contenteditable></span></h1>
+                <div contenteditable>
+                    <p></p>
+                </div>
+            </aside>
+    </div>
+ 
+    </div>
+    <script type="text/javascript" src="~/js/band_de_commande.js"></script>
+
+</div>

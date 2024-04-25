@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SystemeCommerciale
+build_property.RootNamespace = SystemeCommerciale
+build_property.ProjectDir = /home/mano/Desktop/Mr Tovo/SystemeCommerciale/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/mano/Desktop/Mr Tovo/SystemeCommerciale
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/mano/Desktop/Mr Tovo/SystemeCommerciale/Views/band_de_commande/banddecommandedetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvYmFuZF9kZV9jb21tYW5kZS9iYW5kZGVjb21tYW5kZWRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mano/Desktop/Mr Tovo/SystemeCommerciale/Views/band_de_commande/bandDeCommandefin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvYmFuZF9kZV9jb21tYW5kZS9iYW5kRGVDb21tYW5kZWZpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mano/Desktop/Mr Tovo/SystemeCommerciale/Views/band_de_commande/FormulaireBandDeCommande.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvYmFuZF9kZV9jb21tYW5kZS9Gb3JtdWxhaXJlQmFuZERlQ29tbWFuZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mano/Desktop/Mr Tovo/SystemeCommerciale/Views/band_de_commande/listebdnonval.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvYmFuZF9kZV9jb21tYW5kZS9saXN0ZWJkbm9udmFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mano/Desktop/Mr Tovo/SystemeCommerciale/Views/band_de_commande/listebdval.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvYmFuZF9kZV9jb21tYW5kZS9saXN0ZWJkdmFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mano/Desktop/Mr Tovo/SystemeCommerciale/Views/demandeBesoin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvZGVtYW5kZUJlc29pbi9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mano/Desktop/Mr Tovo/SystemeCommerciale/Views/Email/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1haWwvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mano/Desktop/Mr Tovo/SystemeCommerciale/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mano/Desktop/Mr Tovo/SystemeCommerciale/Views/Home/LoginChef.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Mb2dpbkNoZWYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mano/Desktop/Mr Tovo/SystemeCommerciale/Views/Home/LoginDepartement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Mb2dpbkRlcGFydGVtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mano/Desktop/Mr Tovo/SystemeCommerciale/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mano/Desktop/Mr Tovo/SystemeCommerciale/Views/Home/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9XZWxjb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mano/Desktop/Mr Tovo/SystemeCommerciale/Views/NotAccess/NoAccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTm90QWNjZXNzL05vQWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mano/Desktop/Mr Tovo/SystemeCommerciale/Views/proforma/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvcHJvZm9ybWEvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mano/Desktop/Mr Tovo/SystemeCommerciale/Views/Regroupement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVncm91cGVtZW50L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mano/Desktop/Mr Tovo/SystemeCommerciale/Views/Regroupement/IndexFinance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVncm91cGVtZW50L0luZGV4RmluYW5jZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mano/Desktop/Mr Tovo/SystemeCommerciale/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mano/Desktop/Mr Tovo/SystemeCommerciale/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mano/Desktop/Mr Tovo/SystemeCommerciale/Views/validation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvdmFsaWRhdGlvbi9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mano/Desktop/Mr Tovo/SystemeCommerciale/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mano/Desktop/Mr Tovo/SystemeCommerciale/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mano/Desktop/Mr Tovo/SystemeCommerciale/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7rkbjwggyv
